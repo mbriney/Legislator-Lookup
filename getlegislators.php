@@ -4,8 +4,8 @@
 //error_reporting(E_ALL);
 //ini_set('display_errors', '1');
 
-//Sunlight API Key
-$sunlightkey = 'c09e97ef88ce40f79b957b5e82a3f433';
+//Sunlight API Key  (http://services.sunlightlabs.com/accounts/register/)
+$sunlightkey = 'YOURKEYHERE';
 
 
 // Get address
